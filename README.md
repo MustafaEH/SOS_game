@@ -4,7 +4,7 @@ This project implements a simple Python-based game of "SOS" played on a 5x5 boar
 
 ## How to Play
 
-1. Run the `sos_game.py` file to start the game.
+1. Run the `SOS.py` file to start the game.
 2. Each player takes turns entering the row and column numbers to place their letter ("S" or "O") on the board.
 3. Players aim to form the sequence "SOS" horizontally, vertically, or diagonally.
 4. Points are awarded for each "SOS" sequence formed.
